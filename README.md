@@ -1,1 +1,1 @@
-Basic project template for SBT 0.12 and the sbt-idea plugin (version 1.1.0)
+Trying to increase my knowledge of the design and implementation of the Play Framework 2.0, I created this extremely small MVC-oriented web framework that is very strongly inspired by Play itself. It's not meant to be taken as a serious project but rather as a sandbox to explore some of Play's choices, new ideas, etc.
